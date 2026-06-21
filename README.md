@@ -46,5 +46,5 @@ Future Improvements
 Author
 
 Anshu
-
-This is my first web development project. More projects and improvements are coming as I continue learning full stack development.
+Aspiring Full stack developer
+This is my first web development project. More projects and improvements are coming as I continue learning web development.
